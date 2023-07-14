@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Akuha</h1>
 <h3 align="center">An experienced Machine Learning and Computer Vision Engineer with a PhD in Electronic and Computer Engineering. I have multidisciplinary experience in delivering innovative solutions in the research, robotics and health industries.</h3>
 
-- 💬 Talking about **Deep Learning, AI, Health Tech, Computer Vision, Robotics**
+- 💬 Intrested in **Deep Learning, AI, Health Tech, Computer Vision, Robotics**
 
 - 📫 Business inquiries **sa.akuha@gmail.com**
 
@@ -26,9 +26,6 @@
 	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Unity_%28game_engine%29#/media/File:Unity_2021.svg" alt="unity" width="40" height="40"/> </a> </p>
+	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Unity_%28game_engine%29#/media/File:Unity_2021.svg" alt="unity" width="40" height="40"/> </a> 
+</p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niconielsen32&show_icons=true&theme=dark&locale=en" alt="niconielsen32" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niconielsen32&theme=dark" alt="niconielsen32" /></p>
