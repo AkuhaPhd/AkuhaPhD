@@ -4,6 +4,7 @@
 - 💬 Intrested in **Deep Learning, AI, Health Tech, Computer Vision, Robotics**
 
 - 📫 Business inquiries **sa.akuha@gmail.com**
+
 - ORCID: **0000-0002-8753-8748**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,9 +31,17 @@
 </p>
 
 <h3 align="left">Publications:</h3>
-- A. Aondoakaa, M. R. Swash and A. Sadka, ”3D depth estimation from a Holoscopic 3D image,” 2017 4th
-International Conference on Signal Processing and Integrated Networks (SPIN), Noida, 2017, pp. 320-
-324. doi: 10.1109/SPIN.2017.8049967.FastAPI and Docker to serve predictions to a web application.
+
+- Datta, Sahil, et al. "Recognition Of Silently Spoken Word From Eeg Signals Using Dense Attention Network (DAN)." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022.
+- Akuha Solomon Aondoakaa, Akuha Solomon Aondoakaa. Depth Estimation from a Single Holoscopic 3D Image and Image Up-sampling with Deep-learning. Diss. Brunel University London, 2020.
 - Alfaqheri, T., Aondoakaa, A., Swash, R. and Sadka, A. (2020) ’Low-delay Single Holoscopic 3D Com-
 puter Generated Image To Multiview Images’. Journal of Real-Time Image Processing. pp. 1 - 10.
 ISSN: 1861- 8200.
+- Belhi A., Bouras A., Alfaqheri T., Aondoakaa A., Sadka A., and Foufou S., “Machine Learning and
+Digital Heritage: The CEPROQHA Project Perspective” Fourth International Congress on Information
+and Communication Technology. Advances in Intelligent Systems and Computing, vol 1027. Springer
+Singapore, 03 January 2020.
+- A. Belhi, A. Bouras, T. Alfaqheri, A. Aondoakaa, and A. Hamid, “Signal Processing: Image Com-
+munication Investigating 3D holoscopic visual content upsampling using super-resolution for cultural
+heritage digitization ,” Signal Process. Image Commun., vol. 75, no. March, pp. 188–198, 2019.
+- A. Aondoakaa, M. R. Swash and A. Sadka, ”3D depth estimation from a Holoscopic 3D image,” 2017 4th International Conference on Signal Processing and Integrated Networks (SPIN), Noida, 2017, pp. 320-324. doi: 10.1109/SPIN.2017.8049967.FastAPI and Docker to serve predictions to a web application.
