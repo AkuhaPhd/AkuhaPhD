@@ -4,6 +4,7 @@
 - 💬 Intrested in **Deep Learning, AI, Health Tech, Computer Vision, Robotics**
 
 - 📫 Business inquiries **sa.akuha@gmail.com**
+- ORCID: **0000-0002-8753-8748**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +28,11 @@
 	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" alt="unity" width="65" height="40"/> </a> 
 </p>
+
+<h3 align="left">Publications:</h3>
+- A. Aondoakaa, M. R. Swash and A. Sadka, ”3D depth estimation from a Holoscopic 3D image,” 2017 4th
+International Conference on Signal Processing and Integrated Networks (SPIN), Noida, 2017, pp. 320-
+324. doi: 10.1109/SPIN.2017.8049967.FastAPI and Docker to serve predictions to a web application.
+- Alfaqheri, T., Aondoakaa, A., Swash, R. and Sadka, A. (2020) ’Low-delay Single Holoscopic 3D Com-
+puter Generated Image To Multiview Images’. Journal of Real-Time Image Processing. pp. 1 - 10.
+ISSN: 1861- 8200.
