@@ -32,16 +32,9 @@
 
 <h3 align="left">Publications:</h3>
 
-- Datta, Sahil, et al. "Recognition Of Silently Spoken Word From Eeg Signals Using Dense Attention Network (DAN)." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022.
-- Akuha Solomon Aondoakaa, Akuha Solomon Aondoakaa. Depth Estimation from a Single Holoscopic 3D Image and Image Up-sampling with Deep-learning. Diss. Brunel University London, 2020.
-- Alfaqheri, T., Aondoakaa, A., Swash, R. and Sadka, A. (2020) ’Low-delay Single Holoscopic 3D Com-
-puter Generated Image To Multiview Images’. Journal of Real-Time Image Processing. pp. 1 - 10.
-ISSN: 1861- 8200.
-- Belhi A., Bouras A., Alfaqheri T., Aondoakaa A., Sadka A., and Foufou S., “Machine Learning and
-Digital Heritage: The CEPROQHA Project Perspective” Fourth International Congress on Information
-and Communication Technology. Advances in Intelligent Systems and Computing, vol 1027. Springer
-Singapore, 03 January 2020.
-- A. Belhi, A. Bouras, T. Alfaqheri, A. Aondoakaa, and A. Hamid, “Signal Processing: Image Com-
-munication Investigating 3D holoscopic visual content upsampling using super-resolution for cultural
-heritage digitization ,” Signal Process. Image Commun., vol. 75, no. March, pp. 188–198, 2019.
-- A. Aondoakaa, M. R. Swash and A. Sadka, ”3D depth estimation from a Holoscopic 3D image,” 2017 4th International Conference on Signal Processing and Integrated Networks (SPIN), Noida, 2017, pp. 320-324. doi: 10.1109/SPIN.2017.8049967.FastAPI and Docker to serve predictions to a web application.
+- Datta, Sahil, ***Akuha Aondoakaa***, Jorunn Jo Holmberg, and Elena Antonova. "Recognition Of Silently Spoken Word From Eeg Signals Using Dense Attention Network (DAN)." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 4558-4562. IEEE, 2022.
+- ***Akuha Solomon Aondoakaa***. Depth Estimation from a Single Holoscopic 3D Image and Image Up-sampling with Deep-learning. Diss. Brunel University London, 2020.
+- Belhi, Abdelhak, Houssem Gasmi, Abdelaziz Bouras, Taha Alfaqheri, ***Akuha Solomon Aondoakaa***, Abdul H. Sadka, and Sebti Foufou. "Machine learning and digital heritage: the CEPROQHA project perspective." In Fourth International Congress on Information and Communication Technology: ICICT 2019, London, Volume 2, pp. 363-374. Springer Singapore, 2020.
+- Alfaqheri, Taha, ***Akuha Solomon Aondoakaa***, Mohammad Rafiq Swash, and Abdul Hamid Sadka. "Low-delay single holoscopic 3D computer-generated image to multiview images." Journal of Real-Time Image Processing 17 (2020): 2015-2027.
+- Belhi, Abdelhak, Abdelaziz Bouras, Taha Alfaqheri, ***Akuha Solomon Aondoakaa***, and Abdul Hamid Sadka. "Investigating 3D holoscopic visual content upsampling using super-resolution for cultural heritage digitization." Signal Processing: Image Communication 75 (2019): 188-198.
+- ***Aondoakaa Akuha Solomon***, Mohammad Rafiq Swash, and Abdul Sadka. "3D depth estimation from a holoscopic 3D image." In 3D Image Acquisition and Display: Technology, Perception and Applications, pp. DW1F-5. Optica Publishing Group, 2017.
