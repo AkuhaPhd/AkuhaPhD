@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Akuha</h1>
-<h3 align="center">An experienced Machine Learning and Computer Vision Engineer with a PhD in Electronic and Computer Engineering. I have multidisciplinary experience in delivering innovative solutions in the research, robotics and health industries.</h3>
-<h3 align="center"> I Help Companies and People Build and Lunch New AI Services to Market.</h3>
+<h3 align="center">An experienced Machine Learning and Computer Vision Engineer with a PhD in Electronic and Computer Engineering. I have multidisciplinary experience in delivering innovative solutions in the research, robotics and health industries. I help companies and people build and lunch wew AI services to market.</h3>
 
 - 💬 Intrested in **Deep Learning, AI, Health Tech, Computer Vision, Robotics**
 
