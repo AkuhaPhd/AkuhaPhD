@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Publications:</h3>
-- Almatrouk, B., Meng, H., Aondoakaa, A. and Swash, R., 2023, July. A New Raw Holoscopic Image Simulator and Data Generation. In 2023 8th International Conference on Image, Vision and Computing (ICIVC) (pp. 489-494). IEEE.
+- Almatrouk, B., Meng, H., ***Aondoakaa, A.*** and Swash, R., 2023, July. A New Raw Holoscopic Image Simulator and Data Generation. In 2023 8th International Conference on Image, Vision and Computing (ICIVC) (pp. 489-494). IEEE.
 - Datta, Sahil, ***Akuha Aondoakaa***, Jorunn Jo Holmberg, and Elena Antonova. "Recognition Of Silently Spoken Word From Eeg Signals Using Dense Attention Network (DAN)." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 4558-4562. IEEE, 2022.
 - ***Akuha Solomon Aondoakaa***. Depth Estimation from a Single Holoscopic 3D Image and Image Up-sampling with Deep-learning. Diss. Brunel University London, 2020.
 - Belhi, Abdelhak, Houssem Gasmi, Abdelaziz Bouras, Taha Alfaqheri, ***Akuha Solomon Aondoakaa***, Abdul H. Sadka, and Sebti Foufou. "Machine learning and digital heritage: the CEPROQHA project perspective." In Fourth International Congress on Information and Communication Technology: ICICT 2019, London, Volume 2, pp. 363-374. Springer Singapore, 2020.
