@@ -31,16 +31,17 @@
 </p>
 
 <h3 align="left">Publications:</h3>
-- Almatrouk, B., Meng, H., ***Akuha Solomon Aondoakaa*** and Swash, R., 2023, July. A New Raw Holoscopic Image Simulator and Data Generation. In 2023 8th International Conference on Image, Vision and Computing (ICIVC) (pp. 489-494). IEEE.
+
+Almatrouk, B., Meng, H., ***Akuha Solomon Aondoakaa*** and Swash, R., 2023, July. A New Raw Holoscopic Image Simulator and Data Generation. In 2023 8th International Conference on Image, Vision and Computing (ICIVC) (pp. 489-494). IEEE.
  
-- Datta, Sahil, ***Akuha Aondoakaa***, Jorunn Jo Holmberg, and Elena Antonova. "Recognition Of Silently Spoken Word From Eeg Signals Using Dense Attention Network (DAN)." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 4558-4562. IEEE, 2022.
+Datta, Sahil, ***Akuha Aondoakaa***, Jorunn Jo Holmberg, and Elena Antonova. "Recognition Of Silently Spoken Word From Eeg Signals Using Dense Attention Network (DAN)." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 4558-4562. IEEE, 2022.
 
-- ***Akuha Solomon Aondoakaa***. Depth Estimation from a Single Holoscopic 3D Image and Image Up-sampling with Deep-learning. Diss. Brunel University London, 2020.
+***Akuha Solomon Aondoakaa***. Depth Estimation from a Single Holoscopic 3D Image and Image Up-sampling with Deep-learning. Diss. Brunel University London, 2020.
 
-- Belhi, Abdelhak, Houssem Gasmi, Abdelaziz Bouras, Taha Alfaqheri, ***Akuha Solomon Aondoakaa***, Abdul H. Sadka, and Sebti Foufou. "Machine learning and digital heritage: the CEPROQHA project perspective." In Fourth International Congress on Information and Communication Technology: ICICT 2019, London, Volume 2, pp. 363-374. Springer Singapore, 2020.
+Belhi, Abdelhak, Houssem Gasmi, Abdelaziz Bouras, Taha Alfaqheri, ***Akuha Solomon Aondoakaa***, Abdul H. Sadka, and Sebti Foufou. "Machine learning and digital heritage: the CEPROQHA project perspective." In Fourth International Congress on Information and Communication Technology: ICICT 2019, London, Volume 2, pp. 363-374. Springer Singapore, 2020.
 
-- Alfaqheri, Taha, ***Akuha Solomon Aondoakaa***, Mohammad Rafiq Swash, and Abdul Hamid Sadka. "Low-delay single holoscopic 3D computer-generated image to multiview images." Journal of Real-Time Image Processing 17 (2020): 2015-2027.
+Alfaqheri, Taha, ***Akuha Solomon Aondoakaa***, Mohammad Rafiq Swash, and Abdul Hamid Sadka. "Low-delay single holoscopic 3D computer-generated image to multiview images." Journal of Real-Time Image Processing 17 (2020): 2015-2027.
 
-- Belhi, Abdelhak, Abdelaziz Bouras, Taha Alfaqheri, ***Akuha Solomon Aondoakaa***, and Abdul Hamid Sadka. "Investigating 3D holoscopic visual content upsampling using super-resolution for cultural heritage digitization." Signal Processing: Image Communication 75 (2019): 188-198.
+Belhi, Abdelhak, Abdelaziz Bouras, Taha Alfaqheri, ***Akuha Solomon Aondoakaa***, and Abdul Hamid Sadka. "Investigating 3D holoscopic visual content upsampling using super-resolution for cultural heritage digitization." Signal Processing: Image Communication 75 (2019): 188-198.
 
-- ***Aondoakaa Akuha Solomon***, Mohammad Rafiq Swash, and Abdul Sadka. "3D depth estimation from a holoscopic 3D image." In 3D Image Acquisition and Display: Technology, Perception and Applications, pp. DW1F-5. Optica Publishing Group, 2017.
+***Aondoakaa Akuha Solomon***, Mohammad Rafiq Swash, and Abdul Sadka. "3D depth estimation from a holoscopic 3D image." In 3D Image Acquisition and Display: Technology, Perception and Applications, pp. DW1F-5. Optica Publishing Group, 2017.
