@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Akuha</h1>
-<h3 align="center">ML/Python Engineer enthusiastic about using AI to solve challenging business problems. 
-With a Ph.D. in ML, have rich experience in end-to-end implementation and deployment of computer vision and generative AI services at scale.</h3>
+<h3 align="center">ML/Python Engineer enthusiastic about using AI to solve challenging business problems. With a Ph.D. in ML, have rich experience in end-to-end implementation and deployment of computer vision and generative AI services at scale.</h3>
 
 - 💬 Intrested in **Deep Learning, AI, Health Tech, Computer Vision, Robotics**
 
