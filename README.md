@@ -3,7 +3,7 @@
 
 - 💬 Intrested in **Deep Learning, AI, Health Tech, Computer Vision, Robotics**
 
-- 📫 Business inquiries **akuha.aondoakaa@limbustech.com**
+- 📫 Business inquiries **sa.akuha@gmail.com**
 
 - ORCID: **0000-0002-8753-8748**
 
